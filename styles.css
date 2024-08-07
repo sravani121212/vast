@@ -1,0 +1,174 @@
+.header{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.a header :hover{
+ color: orange;
+}
+/* banner */
+.content h1{
+    color: rgb(233, 106, 22);
+    font-size: 20px; 
+}
+.content h2{
+    color: aliceblue;
+    font-size: 44px;  
+}
+.content h3{
+    color:wheat;
+    font-size: 16px;   
+}
+.button1 {
+    background-color: orange; 
+    color: white; 
+  }
+  
+.button1:hover {
+    background-color: #060270;
+    color: white;
+  }
+  .app {
+    text-align: center;
+    margin-top: 120px;
+}   
+.app h1{
+    color:red ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.app h2{
+    color:black ;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.col-6 h1{
+    color:red ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.col-6 h2{
+    font-size: 40px;
+    color:black;
+    font-weight: bolder;
+}
+.col-6 h3{
+    font-size: 17px;
+    color:rgb(22, 21, 21);
+}
+.col-6 h4{
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+}
+.col-6 h5{
+        font-size: 17px;
+        color:rgb(22, 21, 21);
+}
+.col-6 h6{
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+}
+.col-6 p{
+    font-size: 17px;
+    color:rgb(22, 21, 21);
+}  
+.button2 {
+    background-color: #060270; 
+    color: white; 
+}  
+.button2:hover {
+    background-color: #700254;
+    color: white;
+}
+.content3 h6{
+    color:red ;
+    font-size: 20px;
+    font-weight: bolder;  
+}
+.content3 h5{
+    font-size: 45px;
+    color:black;
+    font-weight: bolder;
+}
+.content3 h4{
+    font-size: 17px;
+    color:rgb(22, 21, 21);
+}
+.button3 {
+    background-color: #700254; 
+    color: white; 
+}  
+.button3:hover {
+    background-color: #025a70;
+    color: white;
+}
+.content4 h1{
+    color: rgb(233, 106, 22);
+    font-size: 20px;  
+}
+.content4 h2{
+    color: white;
+    font-size: 44px;
+}
+.content4 h3{
+    color:antiquewhite;
+    font-size: 16px;   
+}
+.content4{
+    background-color:#37244C;
+}
+.content5 h1{
+    color:red ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.content5 h2{
+    color:black ;
+    font-size: 55px;
+    font-weight: bolder;
+}
+.button4 {
+    background-color: #6c0270; 
+    color: white; 
+}  
+.button4:hover {
+    background-color: #025a70;
+    color: white;
+}
+.footer{
+    background-color: beige;
+}.over{
+    background-color: beige;
+    size: 25px;
+    text-align: center; 
+}
+.footer1 h1{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.footer1 h2{
+    font-size: 15px;
+}
+.footer2 h1{
+    font-size: 28px;
+     font-weight: bold; 
+}
+.footer2 h3,h4,h5,h6{
+    font-size: 15px;
+}
+.footer3 h1{
+    font-size: 28px;
+    font-weight: bold;
+}
+.footer3 h2,h3,h4,h5,h6{
+    font-size: 15px;
+}
+.footer4 h1{
+    font-size: 28px;
+    font-weight: bold;
+}
+.footer4 h2,h3,h4,h5{
+    font-size: 15px;
+}
